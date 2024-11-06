@@ -20,7 +20,7 @@
         {
             "id": "dev.kesera2.fbx-configurator",
             "releases" : [
-                "https://github.com/kesera2/FBXConfigurator/archive/refs/tags/0.0.1-beta.zip"
+                "https://github.com/kesera2/fbx-configurator/releases/download/0.0.1-beta2/fbx-configurator-0.0.1-beta2.zip"
             ]
         }
     ]
