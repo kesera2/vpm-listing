@@ -1,20 +1,27 @@
 {
-    "name":"kesera2 Listing",
-    "id":"dev.kesera2.vpm",
-    "url":"https://kesera2.github.io/vpm-listing/index.json",
-    "author":{
-        "email":"38027941+kesera2@users.noreply.github.com",
-        "name":"kesera2",
-        "url":""
+    "name": "kesera2 Listing",
+    "id": "dev.kesera2.vpm",
+    "url": "https://kesera2.github.io/vpm-listing/index.json",
+    "author": {
+        "email": "38027941+kesera2@users.noreply.github.com",
+        "name": "kesera2",
+        "url": ""
     },
-    "description":"kesera2 listing",
-    "infoLink":{
-        "url":"https://github.com/kesera2/vpm-listing",
-        "text":"View on GitHub"
+    "description": "kesera2 listing",
+    "infoLink": {
+        "url": "https://github.com/kesera2/vpm-listing",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "kesera2/FBXConfigurator"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "kesera2/fbx-configurator"
     ],
-    "packages":[]
+    "packages": [
+        {
+            "id": "dev.kesera2.fbx-configurator",
+            "releases" : [
+                "https://github.com/kesera2/FBXConfigurator/archive/refs/tags/0.0.1-beta.zip"
+            ]
+        }
+    ]
 }
