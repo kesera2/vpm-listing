@@ -14,8 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-    ],
-    "packages":[
         "kesera2/FBXConfigurator"
-    ]
+    ],
+    "packages":[]
 }
