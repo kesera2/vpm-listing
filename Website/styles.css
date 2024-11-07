@@ -60,7 +60,7 @@ h1 {
 }
 
 .caption1 {
-  font-size: 1rem;
+  font-size: 0.65rem;
   color: var(--neutral-foreground-hover);
 }
 
@@ -212,6 +212,10 @@ h1 {
   margin-bottom: 2rem;
 }
 
+.mb-6 {
+  margin-bottom: 6rem;;
+}
+
 .ms-1 {
   margin-left: 0.25rem;
 }
@@ -358,4 +362,12 @@ h1 {
 
 .flex-1 {
   flex: 1;
+}
+
+.fs-1 {
+  font-size: 0.9rem;
+}
+
+ul li {
+  font-size: 0.7em
 }
