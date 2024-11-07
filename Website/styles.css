@@ -18,6 +18,9 @@ body {
   color: var(--neutral-foreground-rest);
   background-image: url("background.png"); /* 画像 */
   background-size: cover;               /* 全画面 */
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .hidden {
