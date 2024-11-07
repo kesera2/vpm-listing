@@ -16,6 +16,8 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  background-image: url("background.png"); /* 画像 */
+  background-size: cover;               /* 全画面 */
 }
 
 .hidden {

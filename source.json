@@ -12,7 +12,8 @@
         "url": "https://github.com/kesera2/vpm-listing",
         "text": "View on GitHub"
     },
-    "bannerUrl": "banner.png",
+    "bannerUrl": "banner.gif",
+    "backgroundImage": "background.png",
     "githubRepos": [
         "kesera2/fbx-configurator"
     ],
