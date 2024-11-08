@@ -407,7 +407,7 @@ ul li {
 }
 
 .social {
-    padding-top: 12px;
+    padding: 10px;
     display: flex;
     justify-content: left;
     gap: 24px;
