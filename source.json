@@ -19,6 +19,12 @@
     ],
     "packages": [
         {
+            "id": "dev.kesera2.transition-helper",
+            "releases": [
+                "https://github.com/kesera2/transition-helper/releases/download/2.0.2/transition-helper-2.0.2.zip"
+            ]
+        },
+        {
             "id": "dev.kesera2.fbx-configurator",
             "releases": [
                 "https://github.com/kesera2/fbx-configurator/releases/download/0.0.1-beta2/fbx-configurator-0.0.1-beta2.zip",
