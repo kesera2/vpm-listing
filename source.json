@@ -37,6 +37,12 @@
             "releases": [
                 "https://github.com/kesera2/transition-helper/releases/download/2.0.2/transition-helper-2.0.2.zip"
             ]
+        },
+        {
+            "id": "dev.kesera2.physbone-extractor",
+            "releases": [
+                "https://github.com/kesera2/physbone-extracter/releases/download/0.1.0/physbone-extracter-0.1.0.zip"
+            ]
         }
     ]
 }
