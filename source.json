@@ -41,7 +41,8 @@
         {
             "id": "dev.kesera2.physbone-extractor",
             "releases": [
-                "https://github.com/kesera2/physbone-extracter/releases/download/0.1.0/physbone-extracter-0.1.0.zip"
+                "https://github.com/kesera2/physbone-extracter/releases/download/0.1.0/physbone-extracter-0.1.0.zip",
+                "https://github.com/kesera2/physbone-extracter/releases/download/0.1.1/physbone-extracter-0.1.1.zip"
             ]
         }
     ]
