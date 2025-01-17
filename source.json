@@ -47,6 +47,12 @@
                 "https://github.com/kesera2/physbone-extractor/releases/download/1.0.0/physbone-extractor-1.0.0.zip",
                 "https://github.com/kesera2/physbone-extractor/releases/download/1.0.1/physbone-extractor-1.0.1.zip"
             ]
+        },
+        {
+            "id": "dev.kesera2.avatar-dynamics-extractor",
+            "releases": [
+                "https://github.com/kesera2/avatar-dynamics-extractor/releases/download/2.0.1/avatar-dynamics-extractor-2.0.1.zip"
+            ]
         }
     ]
 }
