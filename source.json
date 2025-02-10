@@ -52,7 +52,8 @@
             "id": "dev.kesera2.avatar-dynamics-extractor",
             "releases": [
                 "https://github.com/kesera2/avatar-dynamics-extractor/releases/download/2.0.1/avatar-dynamics-extractor-2.0.1.zip",
-                "https://github.com/kesera2/avatar-dynamics-extractor/releases/download/2.0.4/avatar-dynamics-extractor-2.0.4.zip"
+                "https://github.com/kesera2/avatar-dynamics-extractor/releases/download/2.0.4/avatar-dynamics-extractor-2.0.4.zip",
+                "https://github.com/kesera2/avatar-dynamics-extractor/releases/download/2.0.5/avatar-dynamics-extractor-2.0.5.zip"
             ]
         }
     ]
